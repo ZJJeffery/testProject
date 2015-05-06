@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image1</key>
+		<string>dis</string>
+		<key>image2</key>
+		<string>noProblem</string>
+	</dict>
+	<dict>
+		<key>image1</key>
+		<string>heart</string>
+		<key>image2</key>
+		<string>ifState</string>
+	</dict>
+	<dict>
+		<key>image1</key>
+		<string>love</string>
+		<key>image2</key>
+		<string>isState</string>
+	</dict>
+	<dict>
+		<key>image1</key>
+		<string>say</string>
+		<key>image2</key>
+		<string>happy</string>
+	</dict>
+</array>
+</plist>
